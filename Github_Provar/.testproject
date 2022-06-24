@@ -12,6 +12,7 @@
     <connectionClass name="sf">
       <connections>
         <connection name="Admin">
+          <summary/>
           <connectionUrls>
             <connectionUrl secureStorageNodeId="33ec8ef3-62d5-40a4-a9ed-97d194760dcb" url="sf:user=aman.gupta@provartesting.com;password={password};environment=PROD_DEV;lightningMode=true"/>
           </connectionUrls>
